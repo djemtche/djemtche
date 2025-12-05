@@ -1,16 +1,26 @@
-## Hi there 👋
+#👋 Salut, moi c’est Dnij – Créateur digital, formateur & entrepreneur , developpeur web junior.
 
-<!--
-**djemtche/djemtche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon espace GitHub !
+Je suis un formateur en digital & IA, créateur de contenu, entrepreneur passionné et développeur autodidacte.
+J’accompagne les particuliers, étudiants et entreprises à maîtriser les compétences essentielles du digital : marketing, IA, développement, création de contenu et business en ligne.
 
-Here are some ideas to get you started:
+##🚀 Mes competences 
+##🎥 Création de contenu & Influence digitale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Contenus provocants, motivants et inspirants
+
+>7 vidéos/semaine (TikTok & YouTube)
+
+>Mise en avant des produits, conseils business, débats et motivation
+
+>Studios décorés, hooks puissants, storytelling africain moderne
+
+##🎓 Formation & Éducation digitale
+
+##Fondateur/présentateur de DIGLAB, un centre et programme de formation complet incluant :
+
+>Marketing digital
+
+>Intelligence Artificielle
+
+>Community Management
